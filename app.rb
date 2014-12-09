@@ -8,11 +8,14 @@ swifts = [
 
 get '/random' do
 	content_type :json
-	{pug: swifts.sample}.to_json
+	{swift: swifts.sample}.to_json
 end
 
 get '/count' do
 	content_type :json
-	{count: swifts.size}.to_json
+	{swift_count: swifts.size}.to_json
 end
 
+get '/' do
+	"There be swifts here"
+end
