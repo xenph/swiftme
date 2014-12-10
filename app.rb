@@ -33,6 +33,11 @@ get '/count' do
 	{swift_count: swifts.size}.to_json
 end
 
+get '/haters' do
+	content_type :json
+	{swift: "http://38.media.tumblr.com/c2c64cf946989b9e1428939a8c856aeb/tumblr_naj406yCfe1rm300po1_500.gif"}.to_json
+end
+
 get '/' do
 	"There be swifts here"
 end
