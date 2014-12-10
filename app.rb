@@ -18,6 +18,9 @@ swifts = [
 	"http://i.dailymail.co.uk/i/pix/2014/09/29/1412031442915_Image_galleryImage_125280_Taylor_Swift_seen_.JPG",
 	"http://cdn01.cdn.justjaredjr.com/wp-content/uploads/headlines/2014/08/taylor-swift-cheer-outtakes.jpg",
 	"http://www.usmagazine.com/uploads/assets/articles/79284-taylor-swift-dresses-up-as-a-winged-unicorn-for-halloween-2014-photo/1414766821_taylor-swift-unicorn-zoom.jpg",
+	"http://www.apnatimepass.com/taylor-swift-photos-in-blue-dress-4.jpg",
+	"http://i.dailymail.co.uk/i/pix/2013/11/26/article-2514051-19A9624A00000578-474_634x935.jpg",
+	"http://images5.fanpop.com/image/answers/369000/369029_1333658425424_467_300.jpg",
 ]
 
 get '/random' do
