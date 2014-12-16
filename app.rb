@@ -27,6 +27,10 @@ swifts = [
 	"http://i.imgur.com/BPsUdMN.jpg",
 ]
 
+get '/gallery' do
+	swifts.map { |swift| "<img src=#{swift} style=\"width:500px\" />" }.join("<br />")
+end
+
 get '/random' do
 	content_type :json
 	{swift: swifts.sample}.to_json
