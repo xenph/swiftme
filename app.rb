@@ -21,6 +21,10 @@ swifts = [
 	"http://i.imgur.com/hJuoS66.jpg",
 	"http://i.imgur.com/K36vKvo.jpg",
 	"http://i.imgur.com/mPTIB4h.jpg",
+	"http://i.imgur.com/iDcft9g.jpg",
+	"http://i.imgur.com/dSXqGMA.jpg",
+	"http://i.imgur.com/ONQdojh.jpg",
+	"http://i.imgur.com/BPsUdMN.jpg",
 ]
 
 get '/random' do
