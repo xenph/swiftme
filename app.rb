@@ -28,7 +28,8 @@ swifts = [
 ]
 
 get '/gallery' do
-	swifts.map { |swift| "<img src=#{swift} style=\"width:500px\" />" }.join("<br />")
+	@swifts = swifts
+	erb :gallery
 end
 
 get '/random' do
