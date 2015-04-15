@@ -25,6 +25,31 @@ swifts = [
 	"http://i.imgur.com/dSXqGMA.jpg",
 	"http://i.imgur.com/ONQdojh.jpg",
 	"http://i.imgur.com/BPsUdMN.jpg",
+	"http://i.imgur.com/gYniO4S.jpg",
+	"http://i.imgur.com/jBOjBNH.png",
+	"http://i.imgur.com/LXTxIRC.jpg",
+	"http://i.imgur.com/QWrEsfY.jpg",
+	"http://i.imgur.com/nCjix4t.jpg",
+	"http://i.imgur.com/mPmIDSX.jpg",
+	"http://i.imgur.com/c4PTMVq.jpg",
+	"http://i.imgur.com/FjuaSMm.jpg",
+	"http://i.imgur.com/pYpTpFr.png",
+	"http://i.imgur.com/fTMVJWF.png",
+	"http://i.imgur.com/YE1Rvke.gif",
+	"http://i.imgur.com/qgmmFKw.jpg",
+	"http://i.imgur.com/BnOI4Pv.jpg",
+	"http://i.imgur.com/RWtHGOP.jpg",
+	"http://i.imgur.com/Syy0kPV.jpg",
+	"http://i.imgur.com/La0Tb26.jpg",
+	"http://i.imgur.com/WFIYa9z.jpg",
+	"http://i.imgur.com/iNUEIpT.jpg",
+	"http://i.imgur.com/MyGi1lK.jpg",
+	"http://i.imgur.com/Yunhf8W.jpg",
+	"http://i.imgur.com/B8BhVtV.jpg",
+	"http://i.imgur.com/8s9YsqP.jpg",
+	"http://i.imgur.com/cTnFs63.jpg",
+	
+	
 ]
 
 get '/gallery' do
